@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "tedapa5263",
+  "repo": "container-pjzqde",
+  "name": "tedapa5263",
+  "email": "tedapa5263@gmail.com",
+}
